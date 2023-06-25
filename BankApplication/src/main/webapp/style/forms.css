@@ -1,0 +1,91 @@
+.form-create-admin{
+    height: 390px;
+    width: 350px;
+    background-color: rgb(233, 233, 233);
+    margin: 5% auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px rgb(189, 189, 189);
+}
+input{
+    padding: 2px 4px;
+    margin: 5px;
+    outline: none;
+    width: 250px;
+}
+textarea{
+    padding: 2px 4px;
+    margin: 5px;
+    outline: none;
+    width: 250px;
+}
+.button{
+    margin-top: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 170px;
+}
+h4{
+    margin-bottom: 20px;
+}
+.root{
+    height: 100%;
+}
+.form-create-customer{
+    height: 515px;
+    width: 450px;
+    background-color: rgb(233, 233, 233);
+    margin: 3% auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px rgb(189, 189, 189);
+}
+p{
+    margin-top: 8px;
+}
+a{
+    color: blue;
+}
+.login-user{
+    height: 350px;
+    width: 330px;
+    background-color: rgb(233, 233, 233);
+    margin: 5% auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px rgb(189, 189, 189);
+}
+#vs{
+    height: 4%;
+    width: 8%;
+    opacity: 0.5;
+    cursor: pointer;
+    display: inline;
+}
+#vsp{
+    width: 228px;
+}
+#vs1{
+    height: 4%;
+    width: 6%;
+    opacity: 0.5;
+    cursor: pointer;
+    display: inline;
+}
+#vsp1{
+    width: 226px;
+}
+#vsp2{
+    width: 220px;
+}
+#error{
+    color: red;
+    font-weight: bold;
+}

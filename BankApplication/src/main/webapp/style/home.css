@@ -1,0 +1,15 @@
+.home-main marquee{
+   background-color: rgb(255, 255, 96);
+   color: green;
+   font-weight: bolder;
+   padding: 3px;
+}
+.home-main{
+   content: "";
+   background-image: url("../images/home.jpg");
+   height: 100vh;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+	margin: 5px 15px;
+	border: 2px solid rgb(255, 182, 47);
+}
+.nav-link .logo{
+    font-size: 22px;
+    font-family: 'Pacifico', cursive;
+    color: green;
+    font-weight: bolder;
+}
+.nav-link{
+    background-color: rgb(255, 182, 47);
+    margin: 0px auto;
+}
+.nav-link .center{
+    margin: 0px auto;
+}
+.nav-link .center li{
+    margin: 0px 15px;
+}
+.nav-link .center li a{
+    font-size: 17px;
+    font-weight: bolder;
+}
